@@ -1,0 +1,2 @@
+# StudentManagementSystem
+Managing student info
